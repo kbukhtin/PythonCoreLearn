@@ -10,3 +10,4 @@ value_5 = (a + b) * c
 value_6 = a * (b + c)
 
 print(max(value_1, value_2, value_3, value_4, value_5, value_6))
+
